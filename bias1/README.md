@@ -1,0 +1,5 @@
+- transformersの学習済みMasked Language Modelingモデルを用いて、国と言語の対応を確認してみる。
+    - I live in `[国名]` and I speak `[MASK]`.
+    - Ich wohne in `[国名]`, und ich spreche `[MASK]`.
+    - 私は`[国名]`に住んでいて、話す言語は`[MASK]`です。
+- [196か国のリスト](https://www.boldtuesday.com/pages/alphabetical-list-of-all-countries-and-capitals-shown-on-list-of-countries-poster)をもとに、Wikipediaでの表記をcountries.csvにまとめた。
